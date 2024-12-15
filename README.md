@@ -1,7 +1,7 @@
 # Portfolio: Team & Contest Projects
 
 ###  Team Project
-| [<img src="portfolio1.png" width="387px" alt="SQL 포트폴리오">](SQL포트폴리오.pdf) | [<img src="portfolio2.png" width="387px" alt="파이썬 데이터 분석 포트폴리오">](파이썬포트폴리오.pdf) |
+| [<img src="portfolio1.png" width="387px" alt="SQL 포트폴리오">](태풍%분석.pdf) | [<img src="portfolio2.png" width="387px" alt="파이썬 데이터 분석 포트폴리오">](시계열.pdf) |
 |:---------------------------------------:|:---------------------------------------:|
 | **SQL Project**<br> 택배 물류량과 사회적 요인 간의 관계 분석 | **파이썬 데이터 분석 Project**<br>스낵시장의 트랜드와 소비자 요구 |
 
